@@ -38,28 +38,28 @@ a {
 }
 
 .gallery li:nth-child(1) {
-  background: url(/html/02/images/artist_image_01.jpg) no-repeat center center /
-    cover;
+  background: url(/portfolio/html/02/images/artist_image_01.jpg) no-repeat
+    center center / cover;
 }
 
 .gallery li:nth-child(2) {
-  background: url(/html/02/images/artist_image_02.jpg) no-repeat center center /
-    cover;
+  background: url(/portfolio/html/02/images/artist_image_02.jpg) no-repeat
+    center center / cover;
 }
 
 .gallery li:nth-child(3) {
-  background: url(/html/02/images/artist_image_03.jpg) no-repeat center center /
-    cover;
+  background: url(/portfolio/html/02/images/artist_image_03.jpg) no-repeat
+    center center / cover;
 }
 
 .gallery li:nth-child(4) {
-  background: url(/html/02/images/artist_image_04.jpg) no-repeat center center /
-    cover;
+  background: url(/portfolio/html/02/images/artist_image_04.jpg) no-repeat
+    center center / cover;
 }
 
 .gallery li:nth-child(5) {
-  background: url(/html/02/images/artist_image_05.jpg) no-repeat center center /
-    cover;
+  background: url(/portfolio/html/02/images/artist_image_05.jpg) no-repeat
+    center center / cover;
 }
 
 .gallery:hover li {

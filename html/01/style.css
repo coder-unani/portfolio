@@ -29,7 +29,8 @@ h3 {
 /* Header */
 header {
   height: 600px;
-  background: url(/html/01/images/header_bg.jpg) no-repeat 50% 0 / cover;
+  background: url(/portfolio/html/01/images/header_bg.jpg) no-repeat 50% 0 /
+    cover;
   text-align: center;
   color: #ffffff;
   padding-top: 60px;
